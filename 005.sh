@@ -1,0 +1,2 @@
+#1/BIN/BASH
+dsc mié 28 abr 2021 21:19:22 CEST
